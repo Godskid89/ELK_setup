@@ -1,0 +1,245 @@
+Id,DateVac,State,Lga,Ward,OPVvialsRced,OPVVialsused,DPTvials recd,DPTvials Used,HepBvials recd,HepBvials Used,Measlesvials Recd,MeaslesvialsUsed,MESDiluentsRecd,MESDiluentsUsed,Yellowvials recd,Yellowvials Used,YFDiluentsRecd,YFDiluentsUsed,TTvials recd,TTvials Used,ADsyringeRecd,ADsyringeUsed,ReconsyringeRecd,ReconsyringeUsed,AEFI,uniqvac,IsmainRnd,IPVVials Rced,IPVVials Used,PCVvials recd,PCVvials Used
+,1-Aug-17,Sokoto,Binji,Binji,195,192,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiBinji01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Bunkari,195,194,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiBunkari01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Gawazai,200,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiGawazai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Inname,116,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiInname01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Jamali,165,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiJamali01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Maikulki,273,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiMaikulki01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Samama,187,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiSamama01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Soron Gabas,195,186,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiSoron Gabas01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Soron Yamma,186,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiSoron Yamma01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Binji,Tudun Kose,155,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBinjiTudun Kose01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Bagarawa,250,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaBagarawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Bangi Dabaga,410,410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaBangi Dabaga01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Bodinga Tauma,486,486,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaBodinga Tauma01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Danchadi,380,380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaDanchadi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Darhela Badau,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaDarhela Badau01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Dingyadi,450,450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaDingyadi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Kaura Miyo,542,542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaKaura Miyo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Kwacciyar Lalle,262,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaKwacciyar Lalle01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Sifawa Lukuyawa,301,301,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaSifawa Lukuyawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Takatuku Madorawa,259,259,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaTakatuku Madorawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Bodinga,Tulluwa,360,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoBodingaTulluwa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Bodai,300,260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniBodai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Dange,312,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniDange01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Fajaldu,300,286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniFajaldu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Ge-Ere/Gajara,390,388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniGe-ere/Gajara01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Rikina,210,209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniRikina01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Rudu/Amanawa,500,477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniRudu/Amanawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Rugar Gidado,438,435,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniRugar Gidado01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Shuni,295,291,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniShuni01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Tsafanade,290,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-Shunitsafanade01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Tuntube/Tsefe,860,842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniTuntube/Tsefe01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Dange-Shuni,Wababe/Salau,450,401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoDange-ShuniWababe/Salau01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Dukamaje,860,845,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaDukamaje01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Gada,703,679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaGada01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Gilbadi,637,621,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaGilbadi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kadadi,527,517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKadadi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kadassaka,400,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKadassaka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kaddi,500,491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKaddi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kaffe,544,532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKaffe01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kiri,635,621,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKiri01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kwarma,486,473,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKwarma01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Kyadawa Holai,659,641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaKyadawa Holai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gada,Tsitse,429,414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGadaTsitse01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Birjingo,306,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoBirjingo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Boyekai,336,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoBoyekai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Giyawa,425,405,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoGiyawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Goronyo,676,651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoGoronyo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Kagara,366,346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoKagara01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Kojiyo,445,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoKojiyo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Kwakwazo,645,625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoKwakwazo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Rimawa,671,649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoRimawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Sabon Gari Dole,549,529,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoSabon Gari Dole01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Shinaka,454,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoShinaka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Goronyo,Takakume,437,414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGoronyoTakakume01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Awilkiti,140,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduAwilkiti01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Bachaka,288,288,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduBachaka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Balle,289,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduBalle01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Chilas,190,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduChilas01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Gwazange,153,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduGwazange01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Karfe Chana,138,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduKarfe Chana01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Karfe Sarki,138,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduKarfe Sarki01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Kurdula,320,320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduKurdula01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Marake,195,195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduMarake01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gudu,Tullun Doya,244,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGuduTullun Doya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Asara,608,573,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaAsara01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Atakwanyo,393,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaAtakwanyo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Chimola,465,465,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaChimola01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Gidan Kaya,501,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaGidan Kaya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Gigane,653,628,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaGigane01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Gwadabawa,822,777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaGwadabawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Huchi,228,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaHuchi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Mamman Suka,369,369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaMamman Suka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Mammande,431,431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaMammande01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Salame,730,700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaSalame01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Gwadabawa,Tambagarka,426,426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoGwadabawaTambagarka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Araba,443,441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaAraba01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Damba,395,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaDamba01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Darna Sabon Gari,457,456,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaDarna Sabon Gari01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Darna Tsolawo,250,248,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaDarna Tsolawo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Garu,276,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaGaru01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Gidan Hamma,496,494,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaGidan Hamma01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Gidan Katta,225,223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaGidan Katta01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Illela,760,759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaIllela01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Kalmalo,430,429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaKalmalo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Rungumawa Gatti,343,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaRungumawa Gatti01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Illela,Tozai,330,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIllelaTozai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Bargaja,330,323,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaBargaja01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Gebe A,449,441,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaGebe A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Gebe B,248,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaGebe B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Isa North,320,312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaIsa North01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Isa South,478,474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaIsa South01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Tidibale,389,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaTidibale01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Tozai,215,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaTozai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Tsabre,238,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaTsabre01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Turba,378,375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaTurba01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Isa,Yanfako,331,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoIsaYanfako01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Fakku,446,444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeFakku01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Girkau,348,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeGirkau01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Kebbe East,245,244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeKebbe East01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Kebbe West,235,233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeKebbe West01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Kuchi,440,436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeKuchi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Margai East,426,426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeMargai East01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Margai West,282,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeMargai West01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Nasagudu,362,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeNasagudu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Sangi,363,354,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeSangi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kebbe,Ungushi,243,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKebbeUngushi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Bankanu,418,416,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareBankanu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Basansan,419,417,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareBasansan01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Durbawa,375,374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareDurbawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Gandu,411,410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareGandu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Gidan Rugga More,445,444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareGidan Rugga More01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Hamma Ali Marabawa,432,431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareHamma Ali Marabawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Kabanga,435,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareKabanga01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Kware,526,525,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareKware01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Sabon Birni,473,472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareSabon Birni01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Tsaki Walakae,417,415,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareTsaki Walakae01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Kware,Tunga Mallamawa,358,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoKwareTunga Mallamawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Gandi  I,438,418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahGandi  I01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Gandi  Ii,186,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahGandi  Ii01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Goddodi,366,356,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahGoddodi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Kurya,321,311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahKurya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Maikujera,252,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahMaikujera01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Rabah,287,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahRabah01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Rarah,434,424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahRarah01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Tofa,344,344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahTofa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Tsamiya,307,302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahTsamiya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Tursa,136,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahTursa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Rabah,Yarstakuwa,429,419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoRabahYarstakuwa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Gangara,362,362,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniGangara01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Gatawa,585,585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniGatawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Kalgo,341,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniKalgo01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Kurawa,523,523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniKurawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Lajinge,402,402,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniLajinge01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Makuwana,518,518,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniMakuwana01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Sabon Birni,434,434,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniSabon Birni01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Takatsaba,491,491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniTakatsaba01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Tarah,355,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniTarah01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Tsamaye,817,817,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniTsamaye01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sabon Birni,Unguwar Lalle,617,617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSabon BirniUnguwar Lalle01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Shagari,Dandin Mahe,584,578,8,8,0,0,8,8,8,8,8,8,8,8,4,3,0,0,16,16,0,SokotoShagariDandin Mahe01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Gangan,346,340,8,8,0,0,8,8,8,8,8,8,8,8,4,2,0,0,16,16,0,SokotoShagariGangan01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Horo,318,315,8,8,0,0,8,8,8,8,8,8,8,8,4,2,0,0,16,16,0,SokotoShagariHoro01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Jaredi,353,349,8,8,0,0,8,8,8,8,8,8,8,8,4,2,0,0,16,16,0,SokotoShagariJaredi01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Kajiji,344,338,10,9,0,0,8,8,8,8,8,8,8,8,4,2,0,0,16,16,0,SokotoShagariKajiji01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Kambama,377,371,8,8,0,0,8,8,8,8,8,8,8,8,4,3,0,0,16,16,0,SokotoShagariKambama01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Lambara,486,482,12,11,0,0,8,8,8,8,8,8,8,8,4,4,0,0,16,16,0,SokotoShagariLambara01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Mandera,363,361,8,8,0,0,8,5,8,5,8,5,8,5,4,2,0,0,16,16,0,SokotoShagariMandera01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Sanyinnawal,487,486,8,8,0,0,8,8,8,8,8,8,8,8,4,2,0,0,16,16,0,SokotoShagariSanyinnawal01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Shagari,Shagari,414,394,8,8,0,0,8,7,8,7,8,7,8,7,4,2,0,0,16,16,0,SokotoShagariShagari01/08/2017-1,TRUE,0,0,40,40
+,1-Aug-17,Sokoto,Silame,Gande,691,684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameGande01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Gaukai,259,256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameGaukai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Jekanadu,231,226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameJekanadu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Katami North,221,216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameKatami North01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Katami South,314,304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameKatami South01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Kubodu,332,329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameKubodu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Labani,240,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameLabani01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Maje,269,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameMaje01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Marafa,288,282,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameMarafa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Silame,Silame,245,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSilameSilame01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Magajin Gari A,466,446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthMagajin Gari A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Magajin Gari B,510,490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthMagajin Gari B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Magajin Rafi A,390,370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthMagajin Rafi A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Magajin Rafi B,353,333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthMagajin Rafi B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Sarkin Adar Gandu,603,583,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthSarkin Adar Gandu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Sarkin Adar Gidan Igwai,600,580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthSarkin Adar Gidan Igwai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Sarkin Musulmi A,140,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthSarkin Musulmi A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Sarkin Musulmi B,137,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthSarkin Musulmi B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Waziri A,762,742,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthWaziri A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Waziri B,365,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthWaziri B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto North,Waziri C,314,299,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto NorthWaziri C01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Gagi A,851,850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthGagi A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Gagi B,650,649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthGagi B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Gagi C,843,842,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthGagi C01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Rijia A,318,310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthRijia A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Rijia B,344,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthRijia B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Sarkin Addar A,380,379,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthSarkin Addar A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Sarkin Addar B,368,368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthSarkin Addar B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Sarkin Zamfara A,263,263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthSarkin Zamfara A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Sarkin Zamfara B,432,431,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthSarkin Zamfara B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Tudun Wada A,474,473,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthTudun Wada A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Sokoto South,Tudun Wada B,502,501,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoSokoto SouthTudun Wada B01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Bagida,564,561,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalBagida01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Barkeji-Nabaguda,655,650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalBarkeji-Nabaguda01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Bashire-Maikada,716,715,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalBashire-Maikada01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Dogon Daji,715,714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalDogon Daji01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Faga Alasan,434,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalFaga Alasan01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Jabo-Kagara,642,640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalJabo-Kagara01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Romo Sarki,406,404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalRomo Sarki01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Sabon Birni,452,451,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalSabon Birni01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Saida Goshe,359,358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalSaida Goshe01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Sanyinna,298,297,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalSanyinna01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tambuwal,Tambuwal,704,703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTambuwalTambuwal01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Gidan Madi,238,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaGidan Madi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Kalanjeni,187,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaKalanjeni01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Kwacce Huru,208,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaKwacce Huru01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Magonho,319,308,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaMagonho01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Raka,199,178,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaRaka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Ruwa Wuri,301,283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaRuwa Wuri01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Sakkwai,351,332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaSakkwai01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Salewa,231,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaSalewa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Sutti,199,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaSutti01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tangaza,Tangaza,382,364,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTangazaTangaza01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Dangulbi,201,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaDangulbi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Duma,290,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaDuma01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Furagirke,261,261,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaFuragirke01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Gidan Kare,292,292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaGidan Kare01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Kuruwa,147,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaKuruwa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Kwarare,169,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaKwarare01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Lamba Tureta,256,256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaLamba Tureta01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Lofa,188,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaLofa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Tsamiya,237,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaTsamiya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Tureta,Tureta,240,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoTuretaTureta01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Arkilla,759,723,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoArkilla01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Bado,427,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoBado01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Dundaye,474,454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoDundaye01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Gidan Bubu,425,399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoGidan Bubu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Gidan Hamidu,353,329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoGidan Hamidu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Gumbi,319,295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoGumbi01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Gwamatse,361,340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoGwamatse01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Kalambaina,533,507,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoKalambaina01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Kammata,316,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoKammata01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Kaura,518,496,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoKaura01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wamakko,Wamakko,301,279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWamakkoWamakko01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Achida,328,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoAchida01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Alkanmu,349,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoAlkanmu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Chacho/Marnona,428,428,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoChacho/Marnona01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Dimbiso,409,409,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoDimbiso01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Dinawa,232,232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoDinawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Kwargaba,378,378,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoKwargaba01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Kwasare,300,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoKwasare01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Lahodu,382,382,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoLahodu01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Magarya,238,238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoMagarya01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Marafa,437,437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoMarafa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Wurno,Tunga,219,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoWurnoTunga01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Bakale,209,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboBakale01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Bengaje,275,270,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboBengaje01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Binjin Muza,345,341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboBinjin Muza01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Birniruwa,210,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboBirniruwa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Dagawa,330,328,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboDagawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Fakka,270,267,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboFakka01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Kilgori,210,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboKilgori01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Torankawa,355,349,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboTorankawa01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Yabo A,360,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboYabo A01/08/2017-1,TRUE,0,0,0,0
+,1-Aug-17,Sokoto,Yabo,Yabo B,230,224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SokotoYaboYabo B01/08/2017-1,TRUE,0,0,0,0
